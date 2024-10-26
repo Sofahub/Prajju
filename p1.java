@@ -6,6 +6,7 @@ class A
 		{
 			int i;
             System.out.println("the output is",i);
+			System.out.println("Hello");
         }
     }
 }
